@@ -1,0 +1,22 @@
+{
+  "publisher": "Gers2017",
+  "name": "glitch",
+  "displayName": "Glitch",
+  "description": "Color Theme for vscode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Glitch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Glitch-color-theme.json"
+      }
+    ]
+  }
+}
