@@ -13,6 +13,6 @@ Great! because here's a green/crimson theme with dark background!
 
 ![Feel the green](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/kuale3kf2yVgNSplvYCqXPfix7R2/Kz59EXWM-panelTerminal.jpeg)
 
-![Wow](./asset.png)
+![Wow](images/asset.png)
 
 ## Hope you enjoy the theme!🐴
