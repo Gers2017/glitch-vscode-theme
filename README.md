@@ -1,18 +1,21 @@
-# Glitch Theme 👾
+<div align="center">
+    <img src="images/glitch-logo.png" width="60" height="60"/>
+    <h1>Glitch Theme</h1>
+    <h4>Don't be scared of bugs. Embrace the bug. Become the bug ⚡️🐛</h4>
+</div>
 
-_Are you tired of thoose blue/purple themes with dark backgrounds?_
-Great! because here's a green/crimson theme with dark background!
-
-### How to start using it? 🤔
-
+### How to Install? 🤔
 1. File > Preferences > Extensions or `CMD + Shift + X`
-2. Search Glitch and install it
-3. `CMD + Shift + P` > `color theme` then choose Glitch
+2. Search Glitch and click the install button
+3. `CMD + Shift + P` > `color theme` then choose `Glitch`
 
-![Vscode with the glitch theme](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/kuale3kf2yVgNSplvYCqXPfix7R2/Kz59EXWM-default.jpeg)
+### Credits
+Inspired by:
+- [Vscode dark+](https://github.com/microsoft/vscode/tree/main/extensions/theme-defaults/themes)
+- [The Best Theme](https://github.com/jankohlbach/the-best-theme)
+- [Palenight Theme](https://github.com/whizkydee/vscode-palenight-theme)
 
-![Feel the green](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/kuale3kf2yVgNSplvYCqXPfix7R2/Kz59EXWM-panelTerminal.jpeg)
+![Glitch theme](images/glitch-result-ts.png)
+![Typescript](images/glit-big-01.png)
+![Rust](images/glitch-rs.png)
 
-![Wow](images/asset.png)
-
-## Hope you enjoy the theme!🐴
