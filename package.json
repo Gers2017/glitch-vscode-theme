@@ -2,7 +2,7 @@
   "publisher": "Gers2017",
   "name": "glitch",
   "displayName": "Glitch",
-  "description": "Glitch on the color Theme for vscode",
+  "description": "Glitch color theme for vscode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.54.0"
